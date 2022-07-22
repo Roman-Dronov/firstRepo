@@ -1,0 +1,8 @@
+#is a comment
+#below removes all .txt in current folder
+*.txt
+#below removes all but
+!er.txt
+Depeche.txt
+logo.png
+logo1.png
